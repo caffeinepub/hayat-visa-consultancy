@@ -71,11 +71,7 @@ export default function Footer() {
               </a>
               <div className="flex items-start gap-3 text-navy-300 text-sm">
                 <MapPin className="w-4 h-4 text-gold-400 flex-shrink-0 mt-0.5" />
-                <span>
-                  148-A R-Extn, Mohan Garden,
-                  <br />
-                  Uttam Nagar, New Delhi 110059
-                </span>
+                <span>Uttam Nagar, New Delhi</span>
               </div>
             </div>
           </div>

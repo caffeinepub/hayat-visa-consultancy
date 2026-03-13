@@ -116,9 +116,7 @@ export default function Contact() {
                       Address
                     </p>
                     <p className="font-semibold text-navy-800 leading-relaxed">
-                      148-A R-Extn, Mohan Garden,
-                      <br />
-                      Uttam Nagar, New Delhi 110059
+                      Uttam Nagar, New Delhi
                     </p>
                   </div>
                 </div>
@@ -128,7 +126,7 @@ export default function Contact() {
             {/* Map embed placeholder */}
             <div className="rounded-xl overflow-hidden border border-border shadow-xs h-44 bg-navy-100 flex items-center justify-center">
               <a
-                href="https://maps.google.com/?q=148-A+R-Extn+Mohan+Garden+Uttam+Nagar+New+Delhi+110059"
+                href="https://maps.google.com/?q=Uttam+Nagar+New+Delhi"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-ocid="contact.link"
